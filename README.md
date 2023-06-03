@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://telegra.ph/file/79bd83439254ed9c4bbca.jpg" alt="MatRixBotz LOGO">
+  <img src="https://te.legra.ph/file/60c024a1ca32a848a2b8a.jpg" alt="MatRixBotz LOGO">
 </p>
 <h1 align="center">
   <b> KD-TECH-BOTZ</b>
