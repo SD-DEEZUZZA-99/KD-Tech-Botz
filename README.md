@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-)](https://git.io/typing-svg)
+
 <p align="center">
   <img src="https://telegra.ph/file/79bd83439254ed9c4bbca.jpg" alt="MatRixBotz LOGO">
 </p>
